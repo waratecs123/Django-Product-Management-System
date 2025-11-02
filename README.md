@@ -6,7 +6,7 @@
 
 A comprehensive product management system built with Django that allows CRUD operations for products with category organization, filtering, and pagination.
 
-## 🌟 Features
+## Features
 
 - **Product Management**:
   - Create, Read, Update, Delete (CRUD) operations
@@ -26,7 +26,7 @@ A comprehensive product management system built with Django that allows CRUD ope
   - Ready-to-use Django admin panel
   - Direct model management
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Backend**: Django 5.2
 - **Frontend**: Django Templates
@@ -35,7 +35,7 @@ A comprehensive product management system built with Django that allows CRUD ope
   - django-filters for product filtering
   - Custom template tags and filters
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
